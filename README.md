@@ -1,4 +1,4 @@
-# Project_1
+# Network Packet Tracer
 
 The Network Packet Tracer is a Python-based tool built using Scapy for network traffic analysis. It is designed to capture and analyze packets in real time, providing users with insights into network activity. The tool also includes a basic Graphical User Interface (GUI) for ease of use and accessibility.
 
